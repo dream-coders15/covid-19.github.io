@@ -382,3 +382,22 @@ html
     left: -10%;
   }
 }
+@media only screen and (max-width: 700px)
+{
+	.q1
+	{
+		font-size: 40px;
+	}
+	.q2
+	{
+		font-size: 40px;
+	}
+	.q3
+	{
+		font-size: 40px;
+	}
+	.know
+	{
+		font-size: 30px;
+	}
+}
