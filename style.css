@@ -385,4 +385,21 @@ body{
 	{
 		font-size: 30px;
 	}
+		.imagess
+	{
+		width: 350px;
+		height: 350px;
+		padding: 0px;
+	}
+	.imagesw
+	{
+		width: 350px;
+		height: 350px;
+		padding: 0px;
+	}
+	#symptoms-box
+	{
+		margin-left: 10px;
+		margin-right: 10px;
+	}
 }
